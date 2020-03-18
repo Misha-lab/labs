@@ -1,4 +1,6 @@
-﻿#include <stdio.h>
+﻿//Написать функцию для перевода переменной типа long в символьную строку в системе счисления, 
+//которую вводит пользователь ltoaN(long num, char s[], int radix) и тестирующую программу к ней.
+#include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
 #include "ltoaN.h"
